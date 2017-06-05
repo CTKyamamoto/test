@@ -168,5 +168,6 @@ int main(void)
 	fclose(fpB);
 	fclose(fpA);
 	
+	
 	return 0;
 }
